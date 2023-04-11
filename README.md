@@ -4,7 +4,10 @@
   
 <h1 align="center">Hi there👋, I'm Ra!</h1>
 <h3 align="center">A developer from Korea.</h3>
-    
+
+<h4 align="center">The one I run is called <a href="https://www.instagram.com/rad.jet/">Radjet</a>!</h4>
+  <h4 align="center">And Seedbox/Jambo</h4>
+  
   
 ```js
 const name = 'Ra, Derandeeo';
